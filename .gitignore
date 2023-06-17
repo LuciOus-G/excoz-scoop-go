@@ -21,3 +21,5 @@
 go.work
 /modules
 *.code-workspace
+/.vscode
+*Env.json
